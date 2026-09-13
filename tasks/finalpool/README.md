@@ -1,3 +1,3 @@
-# Final Pool of Implemented Tasks
+# Final Pool
 
-This directory contains all tasks that have been fully implemented according to the requirements.
+All implemented tasks from the Notion Task Tracker.
